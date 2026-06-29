@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Plate -->
+    <path
+        android:fillColor="#FF3E3E"
+        android:pathData="M34,34h8v40h-8z"/>
+    <!-- Left Inner Plate -->
+    <path
+        android:fillColor="#FF9F0A"
+        android:pathData="M44,38h4v32h-4z"/>
+    <!-- Bar -->
+    <path
+        android:fillColor="#F5F5F7"
+        android:pathData="M48,51h12v6h-12z"/>
+    <!-- Right Inner Plate -->
+    <path
+        android:fillColor="#FF9F0A"
+        android:pathData="M60,38h4v32h-4z"/>
+    <!-- Right Plate -->
+    <path
+        android:fillColor="#FF3E3E"
+        android:pathData="M66,34h8v40h-8z"/>
+    <!-- Glow lines -->
+    <path
+        android:fillColor="#FF3E3E"
+        android:pathData="M50,26h8v4h-8z M50,78h8v4h-8z"/>
+</vector>

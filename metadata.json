@@ -1,0 +1,6 @@
+{
+  "name": "FORGE",
+  "description": "Unleash your strength. Log workouts, analyze body metrics, track nutrition, and connect with peers or your AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
